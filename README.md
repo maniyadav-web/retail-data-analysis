@@ -2,7 +2,7 @@
 
 # 🧾 Project Description
 
-This project presents an Exploratory Data Analysis (EDA) of the Online Retail dataset. The dataset contains transactional data from a UK-based online retail store. The goal is to analyze customer purchasing behavior, sales trends, and product performance to derive meaningful business insights.
+This project presents an Exploratory Data Analysis (EDA) of the Online Retail dataset. The dataset contains transactional data from a online retail store. The goal is to analyze customer purchasing behavior, sales trends, and product performance to derive meaningful business insights.
 
 The analysis helps in understanding revenue patterns, identifying top customers/products, and supporting data-driven decision-making for business growth.
 
