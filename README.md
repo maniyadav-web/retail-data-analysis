@@ -7,12 +7,12 @@ This project presents an Exploratory Data Analysis (EDA) of the Online Retail da
 The analysis helps in understanding revenue patterns, identifying top customers/products, and supporting data-driven decision-making for business growth.
 
 # 🎯 Objectives
-Understand customer purchasing behavior
-Analyze monthly and seasonal sales trends
-Identify top-selling products
-Find top customers based on revenue
-Detect missing values and data quality issues
-Generate business insights from transactional data
+● Understand customer purchasing behavior
+● Analyze monthly and seasonal sales trends
+● Identify top-selling products
+● Find top customers based on revenue
+● Detect missing values and data quality issues
+● Generate business insights from transactional data
 
 # 📂 Dataset
 
